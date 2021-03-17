@@ -2,7 +2,7 @@ import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
 import javax.swing.border.*;
-//© Siddhartha inc. ©2021
+// © Siddhartha inc. ©2021 
 public class PhoneDialer implements ActionListener
 {
 	JButton zero;
