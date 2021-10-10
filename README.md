@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SiddharthaG09
-- 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothing
+- 👋 Hi, I’m the future owner of the world
+- 👀 I’m interested in becoming the CEO of Amazonm and to own all the fortune top 500 companys 
+- 🌱 I’m currently learning Java and Python but I will learn every language even to code in binary so I can take over the world
+- 💞️ I’m looking to collaborate on nothing because I am the best at everything
 - 📫 How to reach me email:Siddu@guntupalli.net
 
 <!---
